@@ -1,0 +1,34 @@
+button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+    img{
+    	max-width: 300px;
+    	margin: 10px;
+    	/*float: left;*/
+    }
+
+   body{
+    background-color: #add0e7;
+   }
+	
+    .moveLeft {
+		float: left;
+	}
+   #buttons-view {
+   color: #7860ac;
+   text-decoration-color: white;
+   }
+
+   #country-form{
+    float:right;
+   }
+
+   #country-view{
+    float:left;
+   }
+
+
