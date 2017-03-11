@@ -1,14 +1,19 @@
-button,
+button
+{
+   margin: 5px;
+}
+
     div,
     form,
-    input {
-      margin: 10px;
+    input
+     {
+      margin: 8px;
     }
 
     img{
-    	max-width: 300px;
-    	margin: 10px;
-    	/*float: left;*/
+      max-width: 250px;
+      margin: 5px;
+      /*float: left;*/
     }
 
    body{
@@ -31,4 +36,6 @@ button,
     float:left;
    }
 
-
+   #add-country{
+    margin-left: 210px;
+   }
